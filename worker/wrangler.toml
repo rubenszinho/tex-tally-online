@@ -1,0 +1,8 @@
+name = "textally-api"
+main = "src/index.ts"
+compatibility_date = "2025-09-30"
+
+# account_id is read from the environment in CI via CLOUDFLARE_ACCOUNT_ID
+# routes are optional; using workers.dev by default
+
+
